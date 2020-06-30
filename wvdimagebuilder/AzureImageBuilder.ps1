@@ -1,4 +1,4 @@
-
+#https://github.com/Everink/AzureImageBuilder/blob/master/Scripts/AzureImageBuilder.ps1
 #Script to setup golden image with Azure Image Builder
 
 
