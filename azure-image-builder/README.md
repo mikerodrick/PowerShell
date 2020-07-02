@@ -1,1 +1,1 @@
-## Scripts for use with Azure Image Builder
+# Azure Image Builder scripts
