@@ -1,3 +1,8 @@
+# Endless Love
+# Performed by Microsoft David and Microsoft Zira
+
+# The SpeechSynthesizer class is native to the Windows .NET framework, so this will only work in Windows PowerShell.
+
 # Define assembly path
 $assemblyPath = 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\WPF\System.Speech.dll'
 
