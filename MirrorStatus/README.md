@@ -1,4 +1,4 @@
-# MirrorStatus
+# MirrorStatus PowerShell module
 
 I like using mirrored volumes in Windows. They are simple to implement, and provide good redundancy. The problem is if one of the drives in a mirrored set fails, Windows does not notify you.
 
